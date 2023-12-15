@@ -6,6 +6,6 @@
 
 - 💻 I work on omics projects involving preclinical data with interventional designs e.g. knockout or drug treated at single cell or bulk multi-omics level
 
-- 💞️ I also collaborate on developing applied machine learning models with curious students or researchers and contribute to open science and open source modeling. I am fascinated by high-dimnesional and high-throughput data.
+- 💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers and contribute to open science and open source modeling. I am fascinated by the potential of high-dimnesional and high-throughput biomedical data.
 
 - 📫 vivekdas.0687@gmail.com
