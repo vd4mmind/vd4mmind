@@ -8,6 +8,6 @@
 
 - 💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers and contribute to open science and open source modeling. I am fascinated by the potential of high-dimnesional and high-throughput biomedical data.
 
-- 📚 To read more about my peer-reviewed publications and preprints kindly check out my **Google Scholar** profile at: https://scholar.google.it/citations?user=l_Aj58cAAAAJ&hl=en
+- 📚 To read more about our works kindly check out **Google Scholar** page at: https://scholar.google.it/citations?user=l_Aj58cAAAAJ&hl=en
 
 - 📫 vivekdas.0687@gmail.com
