@@ -1,4 +1,4 @@
-👋 Hi, I’m Vivek Das and you can find me at: **X** https://twitter.com/ivivek87 or in **LinkedIn** https://www.linkedin.com/in/vivek-das-phd-m-sc-b1110b25/
+👋 Hi, I’m Vivek Das and you can find more about me in my website [Vivek Das](https://vd4mmind.github.io/vivekdas.github.io/)
 
 - 👀 I work on finding therapeutic target or biomarkers (prognostic/predictive) for multiple cardiometabolomic (e.g. Chronic Kidney, Athersclerosis, Diabetes, Liver, Neurodegenrative, etc.) diseases combining data-driven and knowledge-driven avenues by leveraging the integreation of bulk and single cell multi-omics data alongside clinical data from human observational cohorts and clinical trials
 
